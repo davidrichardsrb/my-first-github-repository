@@ -6,3 +6,5 @@ This line was modified manually during conflicts resolution.
 New line was added locally.
 
 Another new line was added locally.
+
+One more line was added.
